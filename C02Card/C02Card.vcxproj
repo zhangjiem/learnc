@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{12392d96-e6b2-4a56-b39d-9a6eda2ba526}</ProjectGuid>
-    <RootNamespace>empty</RootNamespace>
+    <ProjectGuid>{bba98a46-e212-4227-a8d3-d79d190638eb}</ProjectGuid>
+    <RootNamespace>C02Card</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="empty.c" />
+    <ClCompile Include="card.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

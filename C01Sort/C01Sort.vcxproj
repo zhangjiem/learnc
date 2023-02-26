@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{24889de1-9293-499e-90a8-7ae3d39a4857}</ProjectGuid>
-    <RootNamespace>C01SortBucket</RootNamespace>
+    <ProjectGuid>{7d967467-4cb0-43ad-ac73-fa088a393ef0}</ProjectGuid>
+    <RootNamespace>C01Sort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SortBucket.c" />
+    <ClCompile Include="C01Sort.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SortBucket.c">
+    <ClCompile Include="C01Sort.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
